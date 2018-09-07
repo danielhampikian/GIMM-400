@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Move : MonoBehaviour {
+public class UtilitiesPlayerMovementIncomplete : MonoBehaviour {
 
 	public enum MoveType { VectorDirect, RotationDirect, Translate, Lerp, RigidBodyArrows, RigidBodyMouse}
 
